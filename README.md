@@ -3,7 +3,7 @@
   <img alt="html5" src="https://media3.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.webp?cid=ecf05e47lnw97qmsthzozfj4vl75pq0p0w1yxe7jjh2ti8fn&ep=v1_gifs_related&rid=giphy.webp&ct=s" style="width: 30px; height: auto;" />
    Um perfil bem SQL 
          <div style="display: inline-block;">
-  <img alt="html5" src="https://media3.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.webp?cid=ecf05e47lnw97qmsthzozfj4vl75pq0p0w1yxe7jjh2ti8fn&ep=v1_gifs_related&rid=giphy.webp&ct=s" style="width: 30px; height: auto; transform: scaleX(1)" />
+  <img alt="html5" src="https://media3.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.webp?cid=ecf05e47lnw97qmsthzozfj4vl75pq0p0w1yxe7jjh2ti8fn&ep=v1_gifs_related&rid=giphy.webp&ct=s" style="width: 30px; height: auto; transform: scaleX(-1)" />
   </h1>
   
   <div style="display: flex; flex-direction: row;">
