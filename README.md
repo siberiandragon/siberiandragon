@@ -31,7 +31,7 @@
   </div>
 </div>
 
- <h3
+ <h3 align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberiandragon&layout=compact)
 
