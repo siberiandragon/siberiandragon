@@ -36,11 +36,6 @@
 </div>
 
  <h3 align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberiandragon&layout=compact)
-
-
-  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raydevcp20&theme=gotham&show_icons=true" />
-  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raydevcp20&hide=html&layout=compact&theme=gotham" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siberiandragon&hide=html&layout=compact&theme=gotham" />
 </p>
 </h3>
