@@ -20,7 +20,11 @@
 
   <img alt="Siberian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=siberiandragon&show_icons=true&theme=radical" />
 
-  ##### 💻 Criando e otimizando os ambientes de trabalho 💻
+<h5 align="center">
+   <img alt="html5" src="https://media3.giphy.com/media/ELfGZ6bACxYLxT0vGB/giphy.webp?cid=ecf05e47o3xjnzbj0edreiov9ykuan0qkfsr0y405herqjpv&ep=v1_stickers_search&rid=giphy.webp&ct=s" style="width: 50px; height: auto;font-size: 12px;" />
+    Criando e otimizando os ambientes de trabalho
+   <img alt="html5" src="https://media3.giphy.com/media/ELfGZ6bACxYLxT0vGB/giphy.webp?cid=ecf05e47o3xjnzbj0edreiov9ykuan0qkfsr0y405herqjpv&ep=v1_stickers_search&rid=giphy.webp&ct=s" style="width: 50px; height: 20%;font-size: 12px; transform: scaleX(-1)" />
+</h5>
 
   <div style="display: inline-block;">
   <img alt="html5" src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" style="width: 40px; height: auto;" />
