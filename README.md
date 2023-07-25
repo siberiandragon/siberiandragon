@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <h1 align="center">   <div style="display: inline-block;">
   <img alt="html5" src="https://media3.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.webp?cid=ecf05e47lnw97qmsthzozfj4vl75pq0p0w1yxe7jjh2ti8fn&ep=v1_gifs_related&rid=giphy.webp&ct=s" style="width: 30px; height: 70%;" /> 
-      <img alt="Siberian GitHub stats" src="https://readme-typing-svg.demolab.com/?lines=Um+Perfil+Focado+em+SQL+by+Felipe's;Ou+Algo+Assim" />
+      <img alt="Siberian GitHub stats" src="https://readme-typing-svg.demolab.com/?color=007ff&lines=Um+Perfil+Focado+em+SQL+by+Felipe's;Ou+Algo+Assim" />
      
       
   <img alt="html5" src="https://media3.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.webp?cid=ecf05e47lnw97qmsthzozfj4vl75pq0p0w1yxe7jjh2ti8fn&ep=v1_gifs_related&rid=giphy.webp&ct=s" style="width: 30px; height: 70%; transform: scaleX(-1)" />
@@ -19,11 +19,11 @@
     </a>
   </div>
 
-  <img alt="Siberian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=siberiandragon&show_icons=true&theme=radical" />
+  <img alt="Siberian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=siberiandragon&show_icons=true&theme=gotham" />
 
 <h6 align="center">
    <img alt="html5" src="https://media3.giphy.com/media/ELfGZ6bACxYLxT0vGB/giphy.webp?cid=ecf05e47o3xjnzbj0edreiov9ykuan0qkfsr0y405herqjpv&ep=v1_stickers_search&rid=giphy.webp&ct=s" style="width: 50px; height: auto;font-size: 12px;" />
-  <img alt="Siberian GitHub stats" src="https://readme-typing-svg.demolab.com/?lines=Criando+e+otimizando+os+ambientes+de;trabalho" />
+  <img alt="Siberian GitHub stats" src="https://readme-typing-svg.demolab.com/?color=007ff&lines=Criando+e+otimizando+os+ambientes+de;trabalho" />
    <img alt="html5" src="https://media3.giphy.com/media/ELfGZ6bACxYLxT0vGB/giphy.webp?cid=ecf05e47o3xjnzbj0edreiov9ykuan0qkfsr0y405herqjpv&ep=v1_stickers_search&rid=giphy.webp&ct=s" style="width: 50px; height: 20%;font-size: 12px; transform: scaleX(-1)" />
 </h6>
 
