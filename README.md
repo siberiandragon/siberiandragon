@@ -42,6 +42,6 @@
 </h3>
 <div>
   
-  ![Snake animation](https://github.com/Siberiandragon/Siberiandragon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Siberiandragon/Siberiandragon/blob/output/github-Snake-Game.svg)
 
 </div>
