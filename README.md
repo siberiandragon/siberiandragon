@@ -40,8 +40,4 @@
   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siberiandragon&hide=html&layout=compact&theme=gotham" />
 </p>
 </h3>
-<div>
-  
-  ![Snake animation](https://github.com/Siberiandragon/Siberiandragon/blob/output/github-Snake-Game.svg)
 
-</div>
