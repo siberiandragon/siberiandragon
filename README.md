@@ -41,3 +41,9 @@
 </p>
 </h3>
 
+<div>
+  
+  ![snake gif](https://github.com/siberiandragon/siberiandragon/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
